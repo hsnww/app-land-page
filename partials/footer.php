@@ -10,7 +10,7 @@
                         <a class="navbar-brand" href="#">
                             <img class="logo" src="assets/img/logo/logo.png" alt="">
                         </a>
-                        <p class="mt-2 mb-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis non, fugit totam vel laboriosam vitae.</p>
+                        <p class="mt-2 mb-3">تابع تطبيق فيولا على حساباتنا في وسائل التواصل الاجتماعي للحصول على آخر الأخبار والتحديثات. كن على اطلاع دائم بكل جديد وانضم إلى مجتمعنا المتفاعل الآن!</p>
                         <!-- Social Icons -->
                         <div class="social-icons d-flex">
                             <a href="https://x.com/viola_saudi" target="_blank">

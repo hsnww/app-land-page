@@ -91,9 +91,9 @@
                                 <span class="text-primary">Awesome</span>
                                 Interface
                             </span>
-                        <h2 class="text-capitalize">Simple &amp; Beautiful Interface</h2>
-                        <p class="d-none d-sm-block mt-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.</p>
-                        <p class="d-block d-sm-none mt-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.</p>
+                        <h2 class="text-capitalize mt-5">واجهة بسيطة وجميلة</h2>
+                        <p class="d-none d-sm-block mt-4">تطبيق فيولا يقدم لك تجربة مميزة لإدارة وتنظيم مهامك بكل سهولة وسرعة. استمتع بخدماتنا المتنوعة والمخصصة لتلبية احتياجاتك اليومية بكفاءة عالية.</p>
+                        <p class="d-block d-sm-none mt-4">تطبيق فيولا يقدم لك تجربة مميزة لإدارة وتنظيم مهامك بكل سهولة وسرعة. استمتع بخدماتنا المتنوعة والمخصصة لتلبية احتياجاتك اليومية بكفاءة عالية.</p>
                     </div>
                 </div>
             </div>
@@ -103,23 +103,23 @@
                     <div class="app-screenshots">
                         <!-- Single Screenshot Item -->
                         <div class="single-screenshot">
-                            <img src="assets/img/screenshots/1.jpg" alt="">
+                            <img src="assets/img/screenshots/1.png" alt="">
                         </div>
                         <!-- Single Screenshot Item -->
                         <div class="single-screenshot">
-                            <img src="assets/img/screenshots/2.jpg" alt="">
+                            <img src="assets/img/screenshots/2.png" alt="">
                         </div>
                         <!-- Single Screenshot Item -->
                         <div class="single-screenshot">
-                            <img src="assets/img/screenshots/3.jpg" alt="">
+                            <img src="assets/img/screenshots/3.png" alt="">
                         </div>
                         <!-- Single Screenshot Item -->
                         <div class="single-screenshot">
-                            <img src="assets/img/screenshots/4.jpg" alt="">
+                            <img src="assets/img/screenshots/4.png" alt="">
                         </div>
                         <!-- Single Screenshot Item -->
                         <div class="single-screenshot">
-                            <img src="assets/img/screenshots/5.jpg" alt="">
+                            <img src="assets/img/screenshots/5.png" alt="">
                         </div>
                     </div>
                 </div>
@@ -136,9 +136,9 @@
                 <div class="col-12 col-md-10 col-lg-9">
                     <!-- Download Text -->
                     <div class="download-text text-center">
-                        <h2 class="text-white">Viola is available for all devices</h2>
-                        <p class="text-white my-3 d-none d-sm-block">Viola is available for all devices, consectetur adipisicing elit. Itaque at harum quam explicabo. Aliquam optio, delectus, dolorem quod neque eos totam. Delectus quae animi tenetur voluptates doloribus commodi dicta modi aliquid deserunt, quis maiores nesciunt autem, aperiam natus.</p>
-                        <p class="text-white my-3 d-block d-sm-none">Viola is available for all devices, consectetur adipisicing elit. Vel neque, cumque. Temporibus eligendi veniam, necessitatibus aut id labore nisi quisquam.</p>
+                        <h2 class="text-white">تطبيق فيولا متاح لجميع الأجهزة</h2>
+                        <p class="text-white my-3 d-none d-sm-block">استمتع بتجربة استخدام فيولا على جميع الأجهزة، سواء كنت تستخدم هاتفًا ذكيًا أو جهازًا لوحيًا أو حاسوبًا مكتبيًا. يقدم التطبيق مزايا متعددة وسهولة في الاستخدام، مما يتيح لك الوصول إلى خدماتنا بكل سلاسة في أي وقت وأي مكان. جربه الآن واستمتع بمزايا فيولا المخصصة لتلبية احتياجاتك اليومية بكفاءة وفعالية.</p>
+                        <p class="text-white my-3 d-block d-sm-none">استمتع بتجربة استخدام فيولا على جميع الأجهزة، سواء كنت تستخدم هاتفًا ذكيًا أو جهازًا لوحيًا أو حاسوبًا مكتبيًا. يقدم التطبيق مزايا متعددة وسهولة في الاستخدام، مما يتيح لك الوصول إلى خدماتنا بكل سلاسة في أي وقت وأي مكان. جربه الآن واستمتع بمزايا فيولا المخصصة لتلبية احتياجاتك اليومية بكفاءة وفعالية.</p>
                         <!-- Store Buttons -->
                         <div class="button-group store-buttons d-flex justify-content-center">
                             <a href="#">
