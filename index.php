@@ -103,23 +103,23 @@
                     <div class="app-screenshots">
                         <!-- Single Screenshot Item -->
                         <div class="single-screenshot">
-                            <img src="assets/img/screenshots/1.jpg" alt="">
+                            <img src="assets/img/screenshots/iscreen-01.png" alt="">
                         </div>
                         <!-- Single Screenshot Item -->
                         <div class="single-screenshot">
-                            <img src="assets/img/screenshots/2.jpg" alt="">
+                            <img src="assets/img/screenshots/iscreen-02.png" alt="">
                         </div>
                         <!-- Single Screenshot Item -->
                         <div class="single-screenshot">
-                            <img src="assets/img/screenshots/3.jpg" alt="">
+                            <img src="assets/img/screenshots/iscreen-03.png" alt="">
                         </div>
                         <!-- Single Screenshot Item -->
                         <div class="single-screenshot">
-                            <img src="assets/img/screenshots/4.jpg" alt="">
+                            <img src="assets/img/screenshots/iscreen-04.png" alt="">
                         </div>
                         <!-- Single Screenshot Item -->
                         <div class="single-screenshot">
-                            <img src="assets/img/screenshots/5.jpg" alt="">
+                            <img src="assets/img/screenshots/iscreen-05.png" alt="">
                         </div>
                     </div>
                 </div>
