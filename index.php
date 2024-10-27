@@ -41,7 +41,7 @@
                 <!-- Welcome Intro Start -->
                 <div class="col-12 col-md-7 col-lg-6">
                     <div class="welcome-intro">
-                        <h1 class="text-white">تطبيق فيولا</h1>
+                        <h1 class="text-white mt-5">تطبيق فيولا</h1>
                         <p class="text-white my-4 text-right">فيولا منصة مجانية تصل بين الصالونات والعملاء وتطلعهم على الخدمات لكل صالون مع الصور، ومواقع الصالونات وأرقام التواصل وحسابات التواصل الاجتماعي للصالونات،وأوقات العمل والمسافات لكل صالون.  تعرفي على الصالونات القريبة منك وخدماتهم وأسعارهم</p>
                         <!-- Store Buttons -->
                         <div class="button-group store-buttons d-flex">
