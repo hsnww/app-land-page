@@ -94,7 +94,8 @@
     --primary-l-color: rgba(0, 0, 0, 0.12);
     --secondary-l-color: rgba(45, 49, 54, 0.09);
     --valid-color: #28a745;
-    --invalid-color: #ffa200;
+    --invalid-color: #f1e94f;
+    --instagram-color: #af279d;
     --primary-bg-color: #f6f9fe;
     --primary-bg-color-2: linear-gradient(-47deg, #8731E8 0%, #4528DC 100%);
     --primary-bg-color-3: #ffffff;
@@ -715,6 +716,13 @@ img {
 
 .social-icons > a.facebook {
     background-color: var(--social-color-1) !important;
+}
+.social-icons > a.snapchat {
+    background-color: var(--invalid-color) !important;
+}
+
+.social-icons > a.instagram {
+    background-color: var(--instagram-color) !important;
 }
 
 .social-icons > a.twitter {
