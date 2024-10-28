@@ -25,7 +25,7 @@
                         <a class="nav-link" href="terms.php">شروط الاستخدام</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="index.php#screenshots">معرض الصور</a>
+                        <a class="nav-link" href="index.php#screenshots">صور من التطبيق</a>
                     </li>
 
                     <li class="nav-item">
