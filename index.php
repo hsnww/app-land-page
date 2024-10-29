@@ -184,7 +184,7 @@
                                 </a>
                             </li>
                             <li class="py-2">
-                                <a class="media" href="#">
+                                <a href="https://wa.me/9660550900696" target="_blank">
                                     <div class="social-icon ml-3">
                                         <i class="fab fa-whatsapp"></i>
                                     </div>
@@ -192,7 +192,7 @@
                                 </a>
                             </li>
                             <li class="py-2">
-                                <a class="media" href="#">
+                                <a class="media" href="mailto:care@viola.com.sa">
                                     <div class="social-icon ml-3">
                                         <i class="fas fa-envelope"></i>
                                     </div>
@@ -215,16 +215,18 @@
                                     <span class="media-body align-self-center">www.viola.com.sa</span>
                                 </a>
                             </li>
-                            <li class="py-2">
-                                <a class="media" href="#">
+
+                                <li class="py-2">
+                                    <a href="https://wa.me/966556450900" target="_blank">
                                     <div class="social-icon ml-3">
                                         <i class="fab fa-whatsapp"></i>
                                     </div>
                                     <span class="media-body align-self-center">0556450900</span>
                                 </a>
                             </li>
+
                             <li class="py-2">
-                                <a class="media" href="#">
+                                <a class="media" href="mailto:care@viola.com.sa">
                                     <div class="social-icon ml-3">
                                         <i class="fas fa-envelope"></i>
                                     </div>
