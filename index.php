@@ -192,11 +192,11 @@
                                 </a>
                             </li>
                             <li class="py-2">
-                                <a class="media" href="mailto:care@viola.com.sa">
+                                <a class="media" href="mailto:contact@viola.com.sa">
                                     <div class="social-icon ml-3">
                                         <i class="fas fa-envelope"></i>
                                     </div>
-                                    <span class="media-body align-self-center">contactus@viola.com.sa</span>
+                                    <span class="media-body align-self-center">contact@viola.com.sa</span>
                                 </a>
                             </li>
                         </ul>
