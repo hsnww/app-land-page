@@ -27,7 +27,6 @@
                     <li class="nav-item">
                         <a class="nav-link" href="index.php#screenshots">صور من التطبيق</a>
                     </li>
-
                     <li class="nav-item">
                         <a class="nav-link" href="index.php#contact">اتصل بنا</a>
                     </li>
@@ -36,4 +35,26 @@
         </div>
     </div>
 </header>
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        const navLinks = document.querySelectorAll('.navbar-nav .nav-link');
+        const navbarCollapse = document.getElementById('navbar-nav');
+
+        navLinks.forEach(link => {
+            link.addEventListener('click', function () {
+                if (window.innerWidth <= 768) { // تحقق من عرض الجوال
+                    // أغلق القائمة
+                    navbarCollapse.classList.remove('show');
+
+                    // في حال استخدام Bootstrap أو مكتبة مشابهة
+                    const navbarToggler = document.querySelector('.navbar-toggler');
+                    if (navbarToggler && navbarToggler.getAttribute('aria-expanded') === 'true') {
+                        navbarToggler.click(); // يحاكي نقرة لإغلاق القائمة
+                    }
+                }
+            });
+        });
+    });
+
+</script>
 
