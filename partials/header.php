@@ -29,7 +29,7 @@
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link scroll" href="#contact">اتصل بنا</a>
+                        <a class="nav-link scroll" href="index.php#contact">اتصل بنا</a>
                     </li>
                 </ul>
             </nav>

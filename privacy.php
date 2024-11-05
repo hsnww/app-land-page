@@ -42,6 +42,7 @@
                     <!-- Breamcrumb Content -->
                     <div class="breadcrumb-content text-center">
                         <h2 class="text-white text-capitalize">Viola Privacy Policy</h2>
+                        <h2 class="text-white text-capitalize">سياسة الخصوصية</h2>
                         <ol class="breadcrumb d-flex justify-content-center">
                              <li class="breadcrumb-item text-white active">October 26, 2024</li>
                         </ol>
